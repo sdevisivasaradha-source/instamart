@@ -1,0 +1,4 @@
+dataset,key,exact_duplicate_rows,unique_keys,duplicate_key_excess_rows,rows_with_repeated_key
+customers,customer_id,0,1200,0,0
+orders,order_id,119,12309,775,1547
+tickets,ticket_id,0,164,0,0
