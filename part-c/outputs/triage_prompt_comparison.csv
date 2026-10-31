@@ -1,0 +1,3 @@
+prompt_mode,classified,accuracy_on_classified,human_review,tokens_used,retries
+zero_shot,147,0.8571,17,8469,19
+few_shot,147,1.0,17,13019,19

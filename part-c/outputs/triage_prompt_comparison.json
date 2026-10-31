@@ -1,0 +1,56 @@
+{
+  "zero_shot": {
+    "tickets": 164,
+    "prompt_mode": "zero_shot",
+    "classified": 147,
+    "accuracy_on_classified": 0.8571,
+    "token_budget": 100000,
+    "tokens_used": 8469,
+    "retries": 19,
+    "redactions": {
+      "email": 55,
+      "phone": 91,
+      "order_id": 132
+    },
+    "status_counts": {
+      "classified_json": 135,
+      "classified_keyword_fallback": 12,
+      "flagged_invalid_output": 9,
+      "skipped_empty": 4,
+      "flagged_long": 4
+    },
+    "route_counts": {
+      "support_queue": 73,
+      "premium_desk": 51,
+      "security_team": 23,
+      "human_review": 17
+    }
+  },
+  "few_shot": {
+    "tickets": 164,
+    "prompt_mode": "few_shot",
+    "classified": 147,
+    "accuracy_on_classified": 1.0,
+    "token_budget": 100000,
+    "tokens_used": 13019,
+    "retries": 19,
+    "redactions": {
+      "email": 55,
+      "phone": 91,
+      "order_id": 132
+    },
+    "status_counts": {
+      "classified_json": 135,
+      "classified_keyword_fallback": 12,
+      "flagged_invalid_output": 9,
+      "skipped_empty": 4,
+      "flagged_long": 4
+    },
+    "route_counts": {
+      "support_queue": 69,
+      "premium_desk": 44,
+      "security_team": 34,
+      "human_review": 17
+    }
+  }
+}
