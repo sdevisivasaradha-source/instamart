@@ -1,0 +1,36 @@
+column,raw_value,normalized_preview,count,percentage
+city,Pune,Pune,148,12.33
+city,Delhi,Delhi,123,10.25
+city,Hyderabad,Hyderabad,119,9.92
+city,Bengaluru,Bengaluru,115,9.58
+city,Mumbai,Mumbai,113,9.42
+city,Chennai,Chennai,106,8.83
+city,chennai,Chennai,44,3.67
+city,hyderabad,Hyderabad,40,3.33
+city,delhi,Delhi,36,3.0
+city,pune,Pune,35,2.92
+city,mumbai,Mumbai,35,2.92
+city,BENGALURU,Bengaluru,32,2.67
+city, Delhi ,Delhi,30,2.5
+city,bengaluru,Bengaluru,27,2.25
+city,PUNE,Pune,24,2.0
+city, Bengaluru ,Bengaluru,23,1.92
+city,DELHI,Delhi,21,1.75
+city,CHENNAI,Chennai,21,1.75
+city, Chennai ,Chennai,20,1.67
+city, Pune ,Pune,20,1.67
+city, Mumbai ,Mumbai,19,1.58
+city, Hyderabad ,Hyderabad,18,1.5
+city,MUMBAI,Mumbai,17,1.42
+city,HYDERABAD,Hyderabad,14,1.17
+gender,female,Female,136,11.33
+gender,FEMALE,Female,122,10.17
+gender,F,Female,120,10.0
+gender,m,Male,118,9.83
+gender,f,Female,117,9.75
+gender,Female,Female,115,9.58
+gender,male,Male,114,9.5
+gender,MALE,Male,110,9.17
+gender,M,Male,110,9.17
+gender,Male,Male,108,9.0
+gender,<BLANK>,Unknown,30,2.5

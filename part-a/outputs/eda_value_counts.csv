@@ -1,0 +1,184 @@
+dataset,column,value,count,percentage
+customers,customer_id,C0001,1,0.08
+customers,customer_id,C0807,1,0.08
+customers,customer_id,C0805,1,0.08
+customers,customer_id,C0804,1,0.08
+customers,customer_id,C0803,1,0.08
+customers,customer_id,C0802,1,0.08
+customers,customer_id,C0801,1,0.08
+customers,customer_id,C0800,1,0.08
+customers,customer_id,C0799,1,0.08
+customers,customer_id,C0798,1,0.08
+customers,customer_id,<OTHER: 1190 values>,1190,99.17
+customers,city,Pune,148,12.33
+customers,city,Delhi,123,10.25
+customers,city,Hyderabad,119,9.92
+customers,city,Bengaluru,115,9.58
+customers,city,Mumbai,113,9.42
+customers,city,Chennai,106,8.83
+customers,city,chennai,44,3.67
+customers,city,hyderabad,40,3.33
+customers,city,delhi,36,3.0
+customers,city,pune,35,2.92
+customers,city,<OTHER: 14 values>,321,26.75
+customers,signup_date,2024-03-21,8,0.67
+customers,signup_date,2024-02-17,8,0.67
+customers,signup_date,2024-09-28,7,0.58
+customers,signup_date,2024-09-21,7,0.58
+customers,signup_date,2024-02-16,7,0.58
+customers,signup_date,2024-06-20,7,0.58
+customers,signup_date,2024-10-17,7,0.58
+customers,signup_date,2024-08-12,6,0.5
+customers,signup_date,2024-06-28,6,0.5
+customers,signup_date,2024-07-18,6,0.5
+customers,signup_date,<OTHER: 422 values>,1131,94.25
+customers,age,<BLANK>,61,5.08
+customers,age,43,40,3.33
+customers,age,52,38,3.17
+customers,age,26,33,2.75
+customers,age,57,32,2.67
+customers,age,58,31,2.58
+customers,age,54,31,2.58
+customers,age,36,31,2.58
+customers,age,42,30,2.5
+customers,age,24,30,2.5
+customers,age,<OTHER: 40 values>,843,70.25
+customers,gender,female,136,11.33
+customers,gender,FEMALE,122,10.17
+customers,gender,F,120,10.0
+customers,gender,m,118,9.83
+customers,gender,f,117,9.75
+customers,gender,Female,115,9.58
+customers,gender,male,114,9.5
+customers,gender,MALE,110,9.17
+customers,gender,M,110,9.17
+customers,gender,Male,108,9.0
+customers,gender,<OTHER: 1 values>,30,2.5
+orders,order_id,ORD-108807,3,0.02
+orders,order_id,ORD-111253,3,0.02
+orders,order_id,ORD-100107,3,0.02
+orders,order_id,ORD-104391,2,0.02
+orders,order_id,ORD-102965,2,0.02
+orders,order_id,ORD-111321,2,0.02
+orders,order_id,ORD-104891,2,0.02
+orders,order_id,ORD-105500,2,0.02
+orders,order_id,ORD-109682,2,0.02
+orders,order_id,ORD-106972,2,0.02
+orders,order_id,<OTHER: 12299 values>,13061,99.82
+orders,customer_id,C0227,39,0.3
+orders,customer_id,C0074,36,0.28
+orders,customer_id,C0108,36,0.28
+orders,customer_id,C0348,35,0.27
+orders,customer_id,C1139,34,0.26
+orders,customer_id,C0447,33,0.25
+orders,customer_id,C0684,33,0.25
+orders,customer_id,C0990,33,0.25
+orders,customer_id,C0798,33,0.25
+orders,customer_id,C1020,32,0.24
+orders,customer_id,<OTHER: 1172 values>,12740,97.37
+orders,product_id,P021,514,3.93
+orders,product_id,P023,491,3.75
+orders,product_id,P024,490,3.75
+orders,product_id,P009,486,3.71
+orders,product_id,P004,480,3.67
+orders,product_id,P018,479,3.66
+orders,product_id,P012,479,3.66
+orders,product_id,P022,477,3.65
+orders,product_id,P013,477,3.65
+orders,product_id,P016,476,3.64
+orders,product_id,<OTHER: 30 values>,8235,62.94
+orders,quantity,2,4871,37.23
+orders,quantity,1,4857,37.12
+orders,quantity,3,3356,25.65
+orders,order_ts,2025-07-16 11:01:47,2,0.02
+orders,order_ts,2025-06-15 10:12:58,2,0.02
+orders,order_ts,2025-05-02 11:21:45,2,0.02
+orders,order_ts,2025-08-16 12:53:08,2,0.02
+orders,order_ts,2025-07-07 17:12:41,2,0.02
+orders,order_ts,2025-06-19 19:31:55,2,0.02
+orders,order_ts,2025-04-24 14:39:11,2,0.02
+orders,order_ts,2025-05-28 10:56:41,2,0.02
+orders,order_ts,2025-08-03 18:42:28,2,0.02
+orders,order_ts,2025-09-10 10:31:21,2,0.02
+orders,order_ts,<OTHER: 12949 values>,13064,99.85
+orders,status,completed,11217,85.73
+orders,status,cancelled,1211,9.26
+orders,status,pending,656,5.01
+orders,discount_pct,0,4409,33.7
+orders,discount_pct,25,1512,11.56
+orders,discount_pct,40,1493,11.41
+orders,discount_pct,10,1456,11.13
+orders,discount_pct,20,1443,11.03
+orders,discount_pct,15,1443,11.03
+orders,discount_pct,5,1328,10.15
+orders,order_amount,90.0,254,1.94
+orders,order_amount,45.0,204,1.56
+orders,order_amount,60.0,187,1.43
+orders,order_amount,72.0,163,1.25
+orders,order_amount,48.0,162,1.24
+orders,order_amount,180.0,162,1.24
+orders,order_amount,135.0,155,1.18
+orders,order_amount,36.0,143,1.09
+orders,order_amount,84.0,139,1.06
+orders,order_amount,54.0,127,0.97
+orders,order_amount,<OTHER: 490 values>,11388,87.04
+orders,delivery_minutes,<BLANK>,2541,19.42
+orders,delivery_minutes,25,485,3.71
+orders,delivery_minutes,26,484,3.7
+orders,delivery_minutes,24,473,3.62
+orders,delivery_minutes,28,470,3.59
+orders,delivery_minutes,21,464,3.55
+orders,delivery_minutes,23,454,3.47
+orders,delivery_minutes,27,450,3.44
+orders,delivery_minutes,20,420,3.21
+orders,delivery_minutes,22,415,3.17
+orders,delivery_minutes,<OTHER: 60 values>,6428,49.13
+tickets,ticket_id,T0024,1,0.61
+tickets,ticket_id,T0025,1,0.61
+tickets,ticket_id,T0148,1,0.61
+tickets,ticket_id,T0088,1,0.61
+tickets,ticket_id,T0030,1,0.61
+tickets,ticket_id,T0067,1,0.61
+tickets,ticket_id,T0029,1,0.61
+tickets,ticket_id,T0129,1,0.61
+tickets,ticket_id,T0105,1,0.61
+tickets,ticket_id,T0045,1,0.61
+tickets,ticket_id,<OTHER: 154 values>,154,93.9
+tickets,customer_id,C0852,2,1.22
+tickets,customer_id,C0404,2,1.22
+tickets,customer_id,C0208,2,1.22
+tickets,customer_id,C1199,2,1.22
+tickets,customer_id,C1156,2,1.22
+tickets,customer_id,C0322,2,1.22
+tickets,customer_id,C0579,2,1.22
+tickets,customer_id,C0486,1,0.61
+tickets,customer_id,C0721,1,0.61
+tickets,customer_id,C1057,1,0.61
+tickets,customer_id,<OTHER: 147 values>,147,89.63
+tickets,order_id,<BLANK>,8,4.88
+tickets,order_id,ORD-102159,2,1.22
+tickets,order_id,ORD-106023,2,1.22
+tickets,order_id,ORD-112282,2,1.22
+tickets,order_id,ORD-111925,2,1.22
+tickets,order_id,ORD-104288,2,1.22
+tickets,order_id,ORD-108861,2,1.22
+tickets,order_id,ORD-109201,1,0.61
+tickets,order_id,ORD-105954,1,0.61
+tickets,order_id,ORD-106410,1,0.61
+tickets,order_id,<OTHER: 141 values>,141,85.98
+tickets,text,My delivery was late. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet. The same problem keeps happening and nobody has given me a clear answer yet.,4,2.44
+tickets,text,<BLANK>,4,2.44
+tickets,text,The invoice for ORD-106549 shows a wrong amount. Call me on 6466957196 to correct the bill.,1,0.61
+tickets,text,There is an unauthorized transaction on my card linked to order ORD-107503. I did not place it. Call 7931118452.,1,0.61
+tickets,text,There is an unauthorized transaction on my card linked to order ORD-110793. I did not place it. Call 8743023183.,1,0.61
+tickets,text,"Someone hacked my account and used my wallet balance. This is fraud, contact user88@example.com.",1,0.61
+tickets,text,"Delivery for ORD-100142 is very late, it was promised in 20 minutes. Write to user30@example.com.",1,0.61
+tickets,text,"I cannot login, the OTP never arrives on 9138531189.",1,0.61
+tickets,text,The invoice for ORD-109201 shows a wrong amount. Call me on 9731351336 to correct the bill.,1,0.61
+tickets,text,I was charged twice for order ORD-102464. Please refund the extra payment. My email is user129@example.com.,1,0.61
+tickets,text,<OTHER: 148 values>,148,90.24
+tickets,true_category,delivery,43,26.22
+tickets,true_category,fraud,39,23.78
+tickets,true_category,billing,39,23.78
+tickets,true_category,technical,39,23.78
+tickets,true_category,none,4,2.44
