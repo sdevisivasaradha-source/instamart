@@ -1,0 +1,20 @@
+{
+  "cohort_rows": 1156,
+  "lapsed_customers": 443,
+  "lapse_rate": 0.3832,
+  "training_rows": 924,
+  "test_rows": 232,
+  "selected_model": "logistic_regression",
+  "feature_cutoff": "2025-09-01",
+  "label_window_end": "2025-10-01",
+  "pca_explained_variance": [
+    0.6343,
+    0.218
+  ],
+  "segment_counts": {
+    "Promising": 436,
+    "Premium": 419,
+    "At Risk": 182,
+    "Loyal": 138
+  }
+}

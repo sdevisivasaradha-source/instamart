@@ -1,0 +1,5 @@
+segment_id,customers,avg_recency,avg_frequency,avg_monetary,value_score,segment_name
+2,419,8.77,19.4,3410.02,2.75,Premium
+1,138,24.12,6.77,7129.7,2.5,Loyal
+0,436,28.86,3.77,1057.62,1.5,Promising
+3,182,109.04,2.2,685.99,0.75,At Risk
