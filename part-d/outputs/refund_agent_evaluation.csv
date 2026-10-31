@@ -1,0 +1,10 @@
+scenario,order_id,expected_status,actual_status,matches,tool_sequence,final_answer
+automatic_refund,ORD-100048,REFUNDED,REFUNDED,True,get_order>search_policy>calculate_refund>issue_refund,Refund of INR 128.25 was issued to the original payment method.
+human_approval,ORD-100145,ESCALATED,ESCALATED,True,get_order>search_policy>calculate_refund>escalate_to_human,Refund of INR 1999.00 requires human approval.
+on_time_denial,ORD-100001,DENIED,DENIED,True,get_order>search_policy>calculate_refund,Refund denied: delivery_not_over_45_minutes.
+cancelled_denial,ORD-100020,DENIED,DENIED,True,get_order>search_policy>calculate_refund,Refund denied: only_completed_orders_are_eligible.
+expired_request,ORD-100048,DENIED,DENIED,True,get_order>search_policy>calculate_refund,Refund denied: request_outside_7_day_window.
+not_found,ORD-999999,NOT_FOUND_OR_FORBIDDEN,NOT_FOUND_OR_FORBIDDEN,True,get_order,The order was not found for the authenticated customer.
+wrong_customer,ORD-100048,NOT_FOUND_OR_FORBIDDEN,NOT_FOUND_OR_FORBIDDEN,True,get_order,The order was not found for the authenticated customer.
+missing_order_id,,NEEDS_INFO,NEEDS_INFO,True,,Please provide an order ID in the form ORD-123456.
+missing_identity,ORD-100048,AUTH_REQUIRED,AUTH_REQUIRED,True,,Authenticated customer identity is required.

@@ -1,0 +1,28 @@
+{
+  "all_pandas_sql_metrics_match": true,
+  "clean_rows": {
+    "customers": 1200,
+    "products": 40,
+    "orders": 12309,
+    "tickets": 164
+  },
+  "customer_cities": [
+    "Bengaluru",
+    "Chennai",
+    "Delhi",
+    "Hyderabad",
+    "Mumbai",
+    "Pune"
+  ],
+  "customer_genders": [
+    "Female",
+    "Male",
+    "Unknown"
+  ],
+  "database_tables": [
+    "customers",
+    "orders",
+    "products",
+    "tickets"
+  ]
+}
