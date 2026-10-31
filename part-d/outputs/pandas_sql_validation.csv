@@ -1,0 +1,10 @@
+metric,pandas_value,sql_value,matches
+customers_rows,1200,1200,True
+products_rows,40,40,True
+orders_rows,12309,12309,True
+tickets_rows,164,164,True
+distinct_cities,6,6,True
+completed_orders,11110,11110,True
+cancelled_orders,1199,1199,True
+completed_revenue_inr,2998668.80,2998668.80,True
+tickets_without_order_id,8,8,True

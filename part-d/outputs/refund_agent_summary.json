@@ -1,0 +1,8 @@
+{
+  "scenarios": 9,
+  "passed": 9,
+  "accuracy": 1.0,
+  "max_steps": 6,
+  "automatic_refund_limit_inr": 1000,
+  "late_delivery_threshold_minutes": 45
+}

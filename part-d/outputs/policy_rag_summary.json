@@ -1,0 +1,10 @@
+{
+  "questions": 14,
+  "supported_questions": 12,
+  "unsupported_questions": 2,
+  "source_accuracy": 1.0,
+  "fact_accuracy": 1.0,
+  "fallback_accuracy": 1.0,
+  "chunks": 12,
+  "documents": 5
+}
